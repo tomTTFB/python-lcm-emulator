@@ -1,0 +1,6 @@
+INP
+ADD 3
+ADP
+lm
+OUT
+2
